@@ -1,0 +1,6 @@
+name: warm-man
+version: 1.0.0
+description: "暖男：许诺的专属助手（SOUL + 技能 + 本地模型配置）"
+hermes_requires: ">=0.12.0"
+author: "Xu Nuo"
+license: "PRIVATE"
